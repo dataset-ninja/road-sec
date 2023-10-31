@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+**ROAD-SEC** stands as an object detection dataset comprising 13221 images, featuring annotations belonging to a singular class - *road_element*. Captured by stationary security cameras, these images offer diverse perspectives of highways and roads. This dataset encompasses a wide array of road elements, including but not limited to cars, trucks, pedestrians, and various environmental conditions such as differing weather patterns and lighting scenarios. The diversity in elements and environmental variations within the dataset provides a rich resource for training models to detect and understand the complexities of road elements within varying conditions and situations, crucial for applications in traffic analysis, road safety, and surveillance systems.
