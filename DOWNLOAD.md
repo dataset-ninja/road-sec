@@ -1,6 +1,6 @@
 Dataset **ROAD-SEC** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/q/X/Wo/ow5VL7vtk3Yma4jYGuoqzrLr3Q51qxQVSbdVMy3YtzKGqjjtkwD6uEKmJzdBoCVJSMw1HCv722wSM6dN3eHtBhgrAFk08ZvzJF1zS2jezmHsNXO7BjJ4rwaJ9cBg.tar)
+ [Download](https://www.dropbox.com/scl/fi/88in7fptjk19idp9mqf1e/road-sec-DatasetNinja.tar?rlkey=5ohw18njg2v2pzi3mbbpdak2j&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
